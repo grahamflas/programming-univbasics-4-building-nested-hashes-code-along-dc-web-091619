@@ -15,14 +15,14 @@ def third_challenge
         status: "alive"
       },
       hero_friends: []
-    },
+    }, 
     :capulet => {
       patriarch: {
         name: "Lord Capulet",
         age: "50"
       },
       matriarch: {
-        name: "Lady Capuluet",
+        name: "Lady Capulet",
         age: "51"
       },
       heroine: {
